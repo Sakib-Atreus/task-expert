@@ -10,8 +10,8 @@ The application supports three task stages — **Todo, Ongoing, and Completed** 
 https://taskexpert.vercel.app
 
 ## 📦 Source Code
-- **Client-side:** https://github.com/Sakib-Atreus/task-expert/task-expert-client  
-- **Server-side:** https://github.com/Sakib-Atreus/task-expert/task-expert-server
+- **Client-side:** https://github.com/Sakib-Atreus/task-expert/tree/main/task-expert-client 
+- **Server-side:** https://github.com/Sakib-Atreus/task-expert/tree/main/task-expert-server
 
 ---
 
@@ -85,5 +85,5 @@ Task Expert is a complete **production-ready full-stack task management system**
 
 ---
 
-**Developed by:** Sakib Mia
+**Developed by:** Sakib
 
